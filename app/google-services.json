@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149255578856",
+    "firebase_url": "https://onbustracking.firebaseio.com",
+    "project_id": "onbustracking",
+    "storage_bucket": "onbustracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149255578856:android:dfa9cf2abf26e61e",
+        "android_client_info": {
+          "package_name": "ae.creonix.onbus_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149255578856-dn14a3bnv6mt9qn21voht5sl9pfc5nie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ae.creonix.onbus_tracking",
+            "certificate_hash": "e04167e36f18c2017e5011085f88335e89d93dc7"
+          }
+        },
+        {
+          "client_id": "149255578856-ddkigc6k7oq6f3o34q21bdtfe5gl1sts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk7w-K17qxtRkrAJEYV1szwxN84fiuWAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149255578856-ddkigc6k7oq6f3o34q21bdtfe5gl1sts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
